@@ -1,0 +1,83 @@
+[
+    {
+        "st_id": 1,
+        "st_name": "Alice Johnson",
+        "gender": "Female",
+        "grad": "10A",
+        "height": 1.55,
+        "weight": 45,
+        "rollno": 101
+    },
+    {
+        "st_id": 2,
+        "st_name": "Bob Smith",
+        "gender": "Male",
+        "grad": "10A",
+        "height": 1.6,
+        "weight": 50,
+        "rollno": 102
+    },
+    {
+        "st_id": 3,
+        "st_name": "Charlie Brown",
+        "gender": "Male",
+        "grad": "10B",
+        "height": 1.58,
+        "weight": 48,
+        "rollno": 103
+    },
+    {
+        "st_id": 4,
+        "st_name": "Diana Prince",
+        "gender": "Female",
+        "grad": "10B",
+        "height": 1.62,
+        "weight": 52,
+        "rollno": 104
+    },
+    {
+        "st_id": 5,
+        "st_name": "Ethan Hunt",
+        "gender": "Male",
+        "grad": "10C",
+        "height": 1.65,
+        "weight": 55,
+        "rollno": 105
+    },
+    {
+        "st_id": 6,
+        "st_name": "Fiona Gallagher",
+        "gender": "Female",
+        "grad": "10C",
+        "height": 1.58,
+        "weight": 49,
+        "rollno": 106
+    },
+    {
+        "st_id": 7,
+        "st_name": "George Lucas",
+        "gender": "Male",
+        "grad": "10D",
+        "height": 1.7,
+        "weight": 60,
+        "rollno": 107
+    },
+    {
+        "st_id": 8,
+        "st_name": "Hannah Montana",
+        "gender": "Female",
+        "grad": "10D",
+        "height": 1.6,
+        "weight": 51,
+        "rollno": 108
+    },
+    {
+        "st_id": 9,
+        "st_name": "Ian Somerhalder",
+        "gender": "Male",
+        "grad": "10E",
+        "height": 1.68,
+        "weight": 57,
+        "rollno": 109
+    }
+]

@@ -1,0 +1,92 @@
+{
+    "serial": [
+        {
+            "id": 1,
+            "name": "Rahul Sharma",
+            "disease": "Diabetes",
+            "height_cm": 170,
+            "weight_kg": 72,
+            "bmi": 24.9
+        },
+        {
+            "id": 2,
+            "name": "Anita Verma",
+            "disease": "Hypertension",
+            "height_cm": 160,
+            "weight_kg": 65,
+            "bmi": 25.4
+        },
+        {
+            "id": 3,
+            "name": "Mohit Singh",
+            "disease": "Asthma",
+            "height_cm": 175,
+            "weight_kg": 80,
+            "bmi": 26.1
+        },
+        {
+            "id": 10,
+            "name": "abc",
+            "disease": "fever",
+            "height_m": 1.33,
+            "weight_kg": 50.0,
+            "bmi_calculation": 28.26615410707219
+        },
+        {
+            "id": 122,
+            "name": "alpha",
+            "disease": "cold",
+            "height_m": 1.8,
+            "weight_kg": 100.0,
+            "bmi_calculation": 30.864197530864196
+        },
+        {
+            "id": 12,
+            "name": "beta",
+            "disease": "alzeimer",
+            "height_m": 1.4,
+            "weight_kg": 199.0,
+            "bmi_calculation": 101.53
+        },
+        {
+            "id": 18,
+            "name": "string",
+            "disease": "string",
+            "height_m": 1.0,
+            "weight_kg": 1.0,
+            "bmi_calculation": 1.0
+        },
+        {
+            "id": 77,
+            "name": "string",
+            "disease": "string",
+            "height_m": 1.0,
+            "weight_kg": 1.0,
+            "bmi_calculation": 1.0
+        },
+        {
+            "id": 13,
+            "name": "gamma",
+            "disease": "string",
+            "height_m": 10.0,
+            "weight_kg": 111.0,
+            "bmi_calculation": 1.11
+        },
+        {
+            "id": 19,
+            "name": "alpha",
+            "disease": "fever",
+            "height_cm": 170.0,
+            "weight_kg": 70.0,
+            "bmi": 0.0
+        },
+        {
+            "id": 32,
+            "name": "string",
+            "disease": "string",
+            "height_cm": 180.0,
+            "weight_kg": 70.0,
+            "bmi": 21.6
+        }
+    ]
+}
